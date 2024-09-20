@@ -32,7 +32,7 @@ I am a **Senior Data Analyst** with over 4 years of experience in delivering dat
 ---
 
 ### 📫 **Contact Me**
-- **Email**: shravani.immidi@gmail.com [shravani.immidi@gmail.com]
+- **Email**: [shravani.immidi@gmail.com] (shravani.immidi@gmail.com)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com)
 
 Feel free to explore my repositories to see some of my work and projects in action!
